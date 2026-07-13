@@ -25,10 +25,5 @@ screenshots/ – Screenshots of objects, flows, reports, and dashboard
 demo/ – Demo video link
 flow-diagrams/ – Workflow diagrams
 
-▶ Demo Video
-The complete working demonstration of the project is available here:
-https://drive.google.com/file/d/1QLKUpMgsPy1-0aQJrPScxwgu0Poaa31_/view?usp=drive_link
-Download the video for better video quality
-
 📌 Note
 This project follows Salesforce’s Clicks Not Code approach. Apex code is optional and was not required for the current implementation.
